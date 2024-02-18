@@ -1,5 +1,4 @@
-<section id="FrDgLkN" data-type="section">
-  <style id="GiCkWiV" type="text/css">
+<section id="FrDgLkN" data-type="section"><style id="GiCkWiV" type="text/css">
     
   @media screen and (min-width:0px){#FrDgLkN{width:100vw;height:100vh;position:relative}}
   @media screen and (min-width:0px){#yYpGqEo{width:100vw;height:100vh;position:relative}}
@@ -18,53 +17,7 @@
   @media screen and (min-width:0px){#zjwpfBI{background:white;padding:20px;color:black;font-size:14px;border-radius:10px;text-underline-position:under;}}
   @media screen and (max-width:640px){#JXejIaG{gap:10px;}}
   
-  </style>
-  
-  <div id="yYpGqEo" data-type="container">
-    <div id="FklISKO" data-type="backgrounds">
-      
-      <div id="hkLyCmK" data-type="bg-color" class="div-hidden">
-        <div id="DWSWvdD" data-type="solid-color" class="div-hidden" style="background: rgb(0, 0, 255);"></div>
-        <div id="AOJJNhU" data-type="radial-color" class="div-hidden" style="background: radial-gradient(circle, rgb(0, 255, 128), rgb(200, 0, 255));"></div>
-        <div id="toKNrNs" data-type="linear-color" class="div-visible" style="background: linear-gradient(0deg, rgb(184 184 184), rgb(255, 255, 255));"></div>
-      </div> <!-- bg-color -->
-
-      <div id="PnqTiqW" data-type="bg-image" class="div-hidden">
-        <picture id="iSQVVFY">
-          <source srcset="" media="(max-width:640px)">
-          <source srcset="" media="(min-width:641px) and (max-width:1024px)">
-          <img id="XBDXMST" src="" data-type="img-bg" loading="lazy">
-        </picture>
-      </div> <!-- bg-image -->
-
-      <div id="gLfwrqo" data-type="bg-video" class="div-visible">
-        <video id="fMwiDUn" autoplay="" loop="" muted="">
-          <source src="../global/patterns/videos/1707848593.mp4" type="video/mp4">
-        </video>
-      </div> <!-- bg-video -->
-
-    </div> <!-- backgrounds -->
-
-    <div id="mBbGash" data-type="content">
-      <div id="JXejIaG">
-        <h2 id="eHaxHYs" contenteditable="true">Lorem ipsum dolor sit amet</h2>
-        <p id="nMzzwvQ" contenteditable="true">Lorem ipsum dolor sit amet consectur et sermont</p>
-        <div id="hNQEtTA">
-          <a id="VspQMAe" contenteditable="true" href="https://www">LOREM IPSUM</a>
-          <a id="zjwpfBI" contenteditable="true" href="https://www">LOREM IPSUM</a>
-        </div> <!-- div2ID -->
-      </div> <!-- div1ID -->
-    </div> <!-- content -->
-  </div> <!-- container -->
-  <button class="toolbar-open" onclick="toolsOpenModal(this)" style="visibility: visible;">
-    <img src="../global/file/edit-section.svg">
-  </button>
-</section>
-
-  
-  
-  <section id="WDbMXjR" data-type="section">
-  <style id="LHHclLa" type="text/css">
+  </style><div id="yYpGqEo" data-type="container"><div id="FklISKO" data-type="backgrounds"><div id="hkLyCmK" data-type="bg-color" class="div-hidden"><div id="DWSWvdD" data-type="solid-color" class="div-hidden" style="background: rgb(0, 0, 255);"></div><div id="AOJJNhU" data-type="radial-color" class="div-hidden" style="background: radial-gradient(circle, rgb(0, 255, 128), rgb(200, 0, 255));"></div><div id="toKNrNs" data-type="linear-color" class="div-visible" style="background: linear-gradient(0deg, rgb(184 184 184), rgb(255, 255, 255));"></div></div><!-- bg-color --><div id="PnqTiqW" data-type="bg-image" class="div-hidden"><picture id="iSQVVFY"><source srcset="" media="(max-width:640px)"><source srcset="" media="(min-width:641px) and (max-width:1024px)"><img id="XBDXMST" src="" data-type="img-bg" loading="lazy"></picture></div><!-- bg-image --><div id="gLfwrqo" data-type="bg-video" class="div-visible"><video id="fMwiDUn" autoplay="" loop="" muted=""><source src="../global/patterns/videos/1707848593.mp4" type="video/mp4"></video></div><!-- bg-video --></div><!-- backgrounds --><div id="mBbGash" data-type="content"><div id="JXejIaG"><h2 id="eHaxHYs" contenteditable="false">Lorem ipsum dolor sit amet</h2><p id="nMzzwvQ" contenteditable="false">Lorem ipsum dolor sit amet consectur et sermont</p><div id="hNQEtTA"><a id="VspQMAe" contenteditable="false" href="https://www">LOREM IPSUM</a><a id="zjwpfBI" contenteditable="false" href="https://www">LOREM IPSUM</a></div><!-- div2ID --></div><!-- div1ID --></div><!-- content --></div><!-- container --><button class="toolbar-open" onclick="toolsOpenModal(this)" style="visibility: hidden;"><img src="../global/file/edit-section.svg"></button></section><section id="WDbMXjR" data-type="section"><style id="LHHclLa" type="text/css">
     
   @media screen and (min-width:0px){#WDbMXjR{width:100vw;height:100vh;position:relative}}
   @media screen and (min-width:0px){#unymxlC{width:100vw;height:100vh;position:relative}}
@@ -83,45 +36,67 @@
   @media screen and (min-width:0px){#OPgAFnV{background:white;padding:20px;color:black;font-size:14px;border-radius:10px;text-underline-position:under;}}
   @media screen and (max-width:640px){#MNRVasj{gap:10px;}}
   
+  </style><div id="unymxlC" data-type="container"><div id="rnidpbd" data-type="backgrounds"><div id="scBVtpk" data-type="bg-color" class="div-hidden"><div id="FSokiXn" data-type="solid-color" class="div-hidden" style="background: rgb(0, 0, 255);"></div><div id="IgnEnBJ" data-type="radial-color" class="div-hidden" style="background: radial-gradient(circle, rgb(0, 255, 128), rgb(200, 0, 255));"></div><div id="wDNbcLN" data-type="linear-color" class="div-visible" style="background: linear-gradient(0deg, rgb(184 184 184), rgb(255, 255, 255));"></div></div><!-- bg-color --><div id="ejywQnr" data-type="bg-image" class="div-hidden"><picture id="TCGdJPr"><source srcset="" media="(max-width:640px)"><source srcset="" media="(min-width:641px) and (max-width:1024px)"><img id="OogbkoH" src="" data-type="img-bg" loading="lazy"></picture></div><!-- bg-image --><div id="LeFWJlq" data-type="bg-video" class="div-visible"><video id="KzsbibB" autoplay="" loop="" muted=""><source src="../global/patterns/videos/1707848593.mp4" type="video/mp4"></video></div><!-- bg-video --></div><!-- backgrounds --><div id="BAegSkD" data-type="content"><div id="MNRVasj"><h2 id="SiVmvSC" contenteditable="false">Lorem ipsum dolor sit amet</h2><p id="hrnOVFL" contenteditable="false">Lorem ipsum dolor sit amet consectur et sermont</p><div id="piYirzF"><a id="iahzqFp" contenteditable="false" href="https://www">LOREM IPSUM</a><a id="OPgAFnV" contenteditable="false" href="https://www">LOREM IPSUM</a></div><!-- div2ID --></div><!-- div1ID --></div><!-- content --></div><!-- container --><button class="toolbar-open" onclick="toolsOpenModal(this)" style="visibility: hidden;"><img src="../global/file/edit-section.svg"></button></section>
+  
+  <section id="jvwpqqp" data-type="section">
+  <style id="srUtVRg" type="text/css">
+    
+  @media screen and (min-width:0px){#jvwpqqp{width:100vw;height:100vh;position:relative}}
+  @media screen and (min-width:0px){#AANdHGB{width:100vw;height:100vh;position:relative}}
+  @media screen and (min-width:0px){#kntxIql{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10;}}
+  @media screen and (min-width:0px){#IAcmkXa{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10; background:inherit;}}
+  @media screen and (min-width:0px){#ISqFgyD{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10; background:inherit;}}
+  @media screen and (min-width:0px){#adgfZqv{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10; background:inherit;}}
+  @media screen and (min-width:0px){#VKexeZS{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10; background:inherit;}}
+  @media screen and (min-width:0px){#gDzxpfv{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10;}}
+  @media screen and (min-width:0px){#MMBKDTs{width:100%;height:100%;display:grid;place-content: center start;}}
+  @media screen and (min-width:0px){#bIINJcZ{display:grid;padding:5%;max-width: 1100px;gap:35px;}}
+  @media screen and (min-width:0px){#zrFhqYE{font-size:clamp(2.8rem,8vw,7rem);line-height:90%;font-weight:300;color:black;}}
+  @media screen and (min-width:0px){#qaqLIFA{font-size:clamp(1rem,2vw,2rem);color:black;}}
+  @media screen and (min-width:0px){#hicjuyM{display:flex;gap:10px;}}
+  @media screen and (min-width:0px){#qLxSiod{background:black;padding:20px;color:white;font-size:14px;border-radius:10px;text-underline-position:under;}}
+  @media screen and (min-width:0px){#jpbnGtA{background:white;padding:20px;color:black;font-size:14px;border-radius:10px;text-underline-position:under;}}
+  @media screen and (max-width:640px){#bIINJcZ{gap:10px;}}
+  
   </style>
   
-  <div id="unymxlC" data-type="container">
-    <div id="rnidpbd" data-type="backgrounds">
+  <div id="AANdHGB" data-type="container">
+    <div id="hpbFEHu" data-type="backgrounds">
       
-      <div id="scBVtpk" data-type="bg-color" class="div-hidden">
-        <div id="FSokiXn" data-type="solid-color" class="div-hidden" style="background: rgb(0, 0, 255);"></div>
-        <div id="IgnEnBJ" data-type="radial-color" class="div-hidden" style="background: radial-gradient(circle, rgb(0, 255, 128), rgb(200, 0, 255));"></div>
-        <div id="wDNbcLN" data-type="linear-color" class="div-visible" style="background: linear-gradient(0deg, rgb(184 184 184), rgb(255, 255, 255));"></div>
+      <div id="IAcmkXa" data-type="bg-color" class="div-hidden">
+        <div id="ISqFgyD" data-type="solid-color" class="div-hidden" style="background: rgb(0, 0, 255);"></div>
+        <div id="adgfZqv" data-type="radial-color" class="div-hidden" style="background: radial-gradient(circle, rgb(0, 255, 128), rgb(200, 0, 255));"></div>
+        <div id="VKexeZS" data-type="linear-color" class="div-visible" style="background: linear-gradient(0deg, rgb(184 184 184), rgb(255, 255, 255));"></div>
       </div> <!-- bg-color -->
 
-      <div id="ejywQnr" data-type="bg-image" class="div-hidden">
-        <picture id="TCGdJPr">
+      <div id="jRAdhNZ" data-type="bg-image" class="div-hidden">
+        <picture id="nmsjQOd">
           <source srcset="" media="(max-width:640px)">
           <source srcset="" media="(min-width:641px) and (max-width:1024px)">
-          <img id="OogbkoH" src="" data-type="img-bg" loading="lazy">
+          <img id="kntxIql" src="" data-type="img-bg" loading="lazy">
         </picture>
       </div> <!-- bg-image -->
 
-      <div id="LeFWJlq" data-type="bg-video" class="div-visible">
-        <video id="KzsbibB" autoplay="" loop="" muted="">
+      <div id="nclSAMt" data-type="bg-video" class="div-visible">
+        <video id="gDzxpfv" autoplay="" loop="" muted="">
           <source src="../global/patterns/videos/1707848593.mp4" type="video/mp4">
         </video>
       </div> <!-- bg-video -->
 
     </div> <!-- backgrounds -->
 
-    <div id="BAegSkD" data-type="content">
-      <div id="MNRVasj">
-        <h2 id="SiVmvSC" contenteditable="true">Lorem ipsum dolor sit amet</h2>
-        <p id="hrnOVFL" contenteditable="true">Lorem ipsum dolor sit amet consectur et sermont</p>
-        <div id="piYirzF">
-          <a id="iahzqFp" contenteditable="true" href="https://www">LOREM IPSUM</a>
-          <a id="OPgAFnV" contenteditable="true" href="https://www">LOREM IPSUM</a>
+    <div id="MMBKDTs" data-type="content">
+      <div id="bIINJcZ">
+        <h2 id="zrFhqYE" contenteditable="true">Lorem ipsum dolor sit amet</h2>
+        <p id="qaqLIFA" contenteditable="true">Lorem ipsum dolor sit amet consectur et sermont</p>
+        <div id="hicjuyM">
+          <a id="qLxSiod" contenteditable="true" href="https://www">LOREM IPSUM</a>
+          <a id="jpbnGtA" contenteditable="true" href="https://www">LOREM IPSUM</a>
         </div> <!-- div2ID -->
       </div> <!-- div1ID -->
     </div> <!-- content -->
   </div> <!-- container -->
-  <button class="toolbar-open" onclick="toolsOpenModal(this)" style="visibility: visible;">
+  <button class="toolbar-open" onclick="toolsOpenModal(this)" style="visibility:hidden;">
     <img src="../global/file/edit-section.svg">
   </button>
 </section>
