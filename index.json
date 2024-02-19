@@ -1,57 +1,57 @@
-<section id="FRWEVrc" data-type="section">
-  <style id="rmboKPK" type="text/css">
+<section id="RmWkDrC" data-type="section">
+  <style id="Owlztzt" type="text/css">
     
-  @media screen and (min-width:0px){#FRWEVrc{width:100vw;height:100vh;position:relative}}
-  @media screen and (min-width:0px){#qhLcJfW{width:100vw;height:100vh;position:relative}}
-  @media screen and (min-width:0px){#RHtrlUc{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10;}}
-  @media screen and (min-width:0px){#aOQJArn{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10; background:inherit;}}
-  @media screen and (min-width:0px){#UxSxKfs{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10; background:inherit;}}
-  @media screen and (min-width:0px){#UCMxTlQ{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10; background:inherit;}}
-  @media screen and (min-width:0px){#CTzLxpb{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10; background:inherit;}}
-  @media screen and (min-width:0px){#QeSWVni{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10;}}
-  @media screen and (min-width:0px){#hpogsWD{width:100%;height:100%;display:grid;place-content: center start;}}
-  @media screen and (min-width:0px){#tHkvZQh{display:grid;padding:5%;max-width: 1100px;gap:35px;}}
-  @media screen and (min-width:0px){#weztVjX{font-size:clamp(2.8rem,8vw,7rem);line-height:90%;font-weight:300;color:black;}}
-  @media screen and (min-width:0px){#bzWdtDS{font-size:clamp(1rem,2vw,2rem);color:black;}}
-  @media screen and (min-width:0px){#EIHsRhe{display:flex;gap:10px;}}
-  @media screen and (min-width:0px){#OzEkcmU{background:black;padding:20px;color:white;font-size:14px;border-radius:10px;text-underline-position:under;}}
-  @media screen and (min-width:0px){#OmCqYeJ{background:white;padding:20px;color:black;font-size:14px;border-radius:10px;text-underline-position:under;}}
-  @media screen and (max-width:640px){#tHkvZQh{gap:10px;}}
+  @media screen and (min-width:0px){#RmWkDrC{width:100vw;height:100vh;position:relative}}
+  @media screen and (min-width:0px){#bauXfls{width:100vw;height:100vh;position:relative}}
+  @media screen and (min-width:0px){#AVVFRJm{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10;}}
+  @media screen and (min-width:0px){#Tijpqlf{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10; background:inherit;}}
+  @media screen and (min-width:0px){#hTAQuIR{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10; background:inherit;}}
+  @media screen and (min-width:0px){#cTceGip{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10; background:inherit;}}
+  @media screen and (min-width:0px){#jJuQehm{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10; background:inherit;}}
+  @media screen and (min-width:0px){#qNFKweK{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10;}}
+  @media screen and (min-width:0px){#PMIGlrO{width:100%;height:100%;display:grid;place-content: center start;}}
+  @media screen and (min-width:0px){#FwuzIzt{display:grid;padding:5%;max-width: 1100px;gap:35px;}}
+  @media screen and (min-width:0px){#jgzewRv{font-size:clamp(2.8rem,8vw,7rem);line-height:90%;font-weight:300;color:black;}}
+  @media screen and (min-width:0px){#AtmPktp{font-size:clamp(1rem,2vw,2rem);color:black;}}
+  @media screen and (min-width:0px){#TfTbklZ{display:flex;gap:10px;}}
+  @media screen and (min-width:0px){#JrSjPOK{background:black;padding:15px;color:white;font-size:14px;border-radius:10px;text-underline-position:under;}}
+  @media screen and (min-width:0px){#jQzQfRI{background:white;padding:15px;color:black;font-size:14px;border-radius:10px;text-underline-position:under;}}
+  @media screen and (max-width:640px){#FwuzIzt{gap:10px;}}
   
   </style>
   
-  <div id="qhLcJfW" data-type="container">
-    <div id="RAJLcxS" data-type="backgrounds">
+  <div id="bauXfls" data-type="container">
+    <div id="ZNcffif" data-type="backgrounds">
       
-      <div id="aOQJArn" data-type="bg-color" class="div-hidden">
-        <div id="UxSxKfs" data-type="solid-color" class="div-hidden" style="background: rgb(0, 0, 255);"></div>
-        <div id="UCMxTlQ" data-type="radial-color" class="div-hidden" style="background: radial-gradient(circle, rgb(0, 255, 128), rgb(200, 0, 255));"></div>
-        <div id="CTzLxpb" data-type="linear-color" class="div-visible" style="background: linear-gradient(0deg, rgb(184 184 184), rgb(255, 255, 255));"></div>
+      <div id="Tijpqlf" data-type="bg-color" class="div-hidden">
+        <div id="hTAQuIR" data-type="solid-color" class="div-hidden" style="background: rgb(0, 0, 255);"></div>
+        <div id="cTceGip" data-type="radial-color" class="div-hidden" style="background: radial-gradient(circle, rgb(0, 255, 128), rgb(200, 0, 255));"></div>
+        <div id="jJuQehm" data-type="linear-color" class="div-visible" style="background: linear-gradient(0deg, rgb(184 184 184), rgb(255, 255, 255));"></div>
       </div> <!-- bg-color -->
 
-      <div id="FZQlRTI" data-type="bg-image" class="div-visible">
-        <picture id="EBvzdFj">
+      <div id="wCADvCz" data-type="bg-image" class="div-hidden">
+        <picture id="wyMtbYq">
           <source srcset="" media="(max-width:640px)">
           <source srcset="" media="(min-width:641px) and (max-width:1024px)">
-          <img id="RHtrlUc" src="https://images.unsplash.com/photo-1463936575829-25148e1db1b8?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwxMHx8cGxhbnRzfGVufDB8MHx8fDE3MDgyODQ2MDl8MA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="img-bg" loading="lazy">
+          <img id="AVVFRJm" src="" data-type="img-bg" loading="lazy">
         </picture>
       </div> <!-- bg-image -->
 
-      <div id="LcWjcmN" data-type="bg-video" class="div-hidden">
-        <video id="QeSWVni" autoplay="" loop="" muted="">
+      <div id="BdpZuDv" data-type="bg-video" class="div-visible">
+        <video id="qNFKweK" autoplay="" loop="" muted="">
           <source src="../global/patterns/videos/1707848593.mp4" type="video/mp4">
         </video>
       </div> <!-- bg-video -->
 
     </div> <!-- backgrounds -->
 
-    <div id="hpogsWD" data-type="content">
-      <div id="tHkvZQh">
-        <h2 id="weztVjX" contenteditable="true">Lorem ipsum dolor sit amet</h2>
-        <p id="bzWdtDS" contenteditable="true">Lorem ipsum dolor sit amet consectur et sermont</p>
-        <div id="EIHsRhe">
-          <a id="OzEkcmU" contenteditable="true" href="https://www">LOREM IPSUM</a>
-          <a id="OmCqYeJ" contenteditable="true" href="https://www">LOREM IPSUM</a>
+    <div id="PMIGlrO" data-type="content">
+      <div id="FwuzIzt">
+        <h2 id="jgzewRv" contenteditable="true">Lorem ipsum dolor sit amet</h2>
+        <p id="AtmPktp" contenteditable="true">Lorem ipsum dolor sit amet consectur et sermont</p>
+        <div id="TfTbklZ">
+          <a id="JrSjPOK" contenteditable="true" href="https://www">LOREM IPSUM</a>
+          <a id="jQzQfRI" contenteditable="true" href="https://www">LOREM IPSUM</a>
         </div> <!-- div2ID -->
       </div> <!-- div1ID -->
     </div> <!-- content -->
