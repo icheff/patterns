@@ -1,0 +1,62 @@
+<section id="cSftsCP" data-type="section">
+  <style id="VnMyuqr" type="text/css">
+    
+  @media screen and (min-width:0px){#cSftsCP{width:100vw;height:100vh;position:relative}}
+  @media screen and (min-width:0px){#BHcqkls{width:100vw;height:100vh;position:relative}}
+  @media screen and (min-width:0px){#TYqrUsE{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10;}}
+  @media screen and (min-width:0px){#SYEjifA{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10; background:inherit;}}
+  @media screen and (min-width:0px){#mqdnoWn{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10; background:inherit;}}
+  @media screen and (min-width:0px){#PowKGeD{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10; background:inherit;}}
+  @media screen and (min-width:0px){#GYQuGRk{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10; background:inherit;}}
+  @media screen and (min-width:0px){#WmVMCSX{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10;}}
+  @media screen and (min-width:0px){#yyMLTfi{width:100%;height:100%;display:grid;place-content: center start;}}
+  @media screen and (min-width:0px){#qNkqLdd{display:grid;padding:5%;max-width: 900px;gap:35px;}}
+  @media screen and (min-width:0px){#CQAEwUM{font-size:clamp(2.5rem,8vw,6rem);line-height:90%;font-weight:300;color:black;}}
+  @media screen and (min-width:0px){#EboQlko{font-size:clamp(1rem,2vw,2rem);color:black;}}
+  @media screen and (min-width:0px){#amSWVIK{display:flex;gap:10px;}}
+  @media screen and (min-width:0px){#TBZYccN{background:black;padding:15px;color:white;font-size:14px;border-radius:10px;text-underline-position:under;}}
+  @media screen and (min-width:0px){#ngKTCPf{background:white;padding:15px;color:black;font-size:14px;border-radius:10px;text-underline-position:under;}}
+  @media screen and (max-width:640px){#qNkqLdd{gap:10px;}}
+  
+  </style>
+  
+  <div id="BHcqkls" data-type="container">
+    <div id="NQjSjCq" data-type="backgrounds">
+      
+      <div id="SYEjifA" data-type="bg-color" class="div-hidden">
+        <div id="mqdnoWn" data-type="solid-color" class="div-visible" style="background: rgb(227, 231, 232);"></div>
+        <div id="PowKGeD" data-type="radial-color" class="div-hidden" style="background: radial-gradient(circle, rgb(0, 255, 128), rgb(200, 0, 255));"></div>
+        <div id="GYQuGRk" data-type="linear-color" class="div-hidden" style="background: linear-gradient(0deg, rgb(184 184 184), rgb(255, 255, 255));"></div>
+      </div> <!-- bg-color -->
+
+      <div id="GttGqEe" data-type="bg-image" class="div-visible">
+        <picture id="igUCbXa">
+          <source srcset="" media="(max-width:640px)">
+          <source srcset="" media="(min-width:641px) and (max-width:1024px)">
+          <img id="TYqrUsE" src="../global/patterns/sections/1707848593/1707848593.jpeg" data-type="img-bg" loading="lazy">
+        </picture>
+      </div> <!-- bg-image -->
+
+      <div id="JrbNpjP" data-type="bg-video" class="div-hidden">
+        <video id="WmVMCSX" autoplay="" loop="" muted="">
+          <source src="../global/patterns/sections/1707848593/1707848593.mp4" type="video/mp4">
+        </video>
+      </div> <!-- bg-video -->
+
+    </div> <!-- backgrounds -->
+
+    <div id="yyMLTfi" data-type="content">
+      <div id="qNkqLdd">
+        <h2 id="CQAEwUM" contenteditable="true">Devenez Expert en IA Generative!</h2>
+        <p id="EboQlko" contenteditable="true">Lorem ipsum dolor sit amet consectur et sermont</p>
+        <div id="amSWVIK">
+          <a id="TBZYccN" contenteditable="true" href="https://www">LOREM IPSUM</a>
+          <a id="ngKTCPf" contenteditable="true" href="https://www">LOREM IPSUM</a>
+        </div> <!-- div2ID -->
+      </div> <!-- div1ID -->
+    </div> <!-- content -->
+  </div> <!-- container -->
+  <button class="toolbar-open" onclick="toolsOpenModal(this)">
+    <img src="../global/file/edit-section.svg">
+  </button>
+</section>
