@@ -1,5 +1,4 @@
-<section id="VIHMuwk" data-type="section">
-  <style id="cckBbmx" type="text/css">
+<section id="VIHMuwk" data-type="section"><style id="cckBbmx" type="text/css">
     
   @media screen and (min-width:0px){#VIHMuwk{width:100vw;height:100vh;position:relative}}
   @media screen and (min-width:0px){#biZnxYA{width:100vw;height:100vh;position:relative}}
@@ -18,45 +17,4 @@
   @media screen and (min-width:0px){#AvEnUYT{background:white;padding:15px;color:black;font-size:14px;border-radius:10px;text-underline-position:under;}}
   @media screen and (max-width:640px){#xITSoHd{gap:10px;}}
   
-  </style>
-  
-  <div id="biZnxYA" data-type="container">
-    <div id="YMHkSeh" data-type="backgrounds">
-      
-      <div id="vqUvdLJ" data-type="bg-color" class="div-hidden">
-        <div id="ZtipYUT" data-type="solid-color" class="div-visible" style="background: rgb(227, 231, 232);"></div>
-        <div id="FiWihnm" data-type="radial-color" class="div-hidden" style="background: radial-gradient(circle, rgb(0, 255, 128), rgb(200, 0, 255));"></div>
-        <div id="UWWgNmj" data-type="linear-color" class="div-hidden" style="background: linear-gradient(0deg, rgb(184 184 184), rgb(255, 255, 255));"></div>
-      </div> <!-- bg-color -->
-
-      <div id="gLADddM" data-type="bg-image" class="div-visible">
-        <picture id="rreCWCu">
-          <source srcset="" media="(max-width:640px)">
-          <source srcset="" media="(min-width:641px) and (max-width:1024px)">
-          <img id="DRKcMBa" src="../global/patterns/sections/1707848593/1707848593.jpeg" data-type="img-bg" loading="lazy">
-        </picture>
-      </div> <!-- bg-image -->
-
-      <div id="sCvOzim" data-type="bg-video" class="div-hidden">
-        <video id="ruCcOWX" autoplay="" loop="" muted="">
-          <source src="../global/patterns/sections/1707848593/1707848593.mp4" type="video/mp4">
-        </video>
-      </div> <!-- bg-video -->
-
-    </div> <!-- backgrounds -->
-
-    <div id="eGPFQaf" data-type="content">
-      <div id="xITSoHd">
-        <h2 id="OTuvwhM" contenteditable="true">Lorem ipsum dolor sit amet</h2>
-        <p id="iWdsStq" contenteditable="true">Lorem ipsum dolor sit amet consectur et sermont</p>
-        <div id="rogywUH">
-          <a id="eqANoki" contenteditable="true" href="https://www">LOREM IPSUM</a>
-          <a id="AvEnUYT" contenteditable="true" href="https://www">LOREM IPSUM</a>
-        </div> <!-- div2ID -->
-      </div> <!-- div1ID -->
-    </div> <!-- content -->
-  </div> <!-- container -->
-  <button class="toolbar-open" onclick="toolsOpenModal(this)">
-    <img src="../global/file/edit-section.svg">
-  </button>
-</section>
+  </style><div id="biZnxYA" data-type="container"><div id="YMHkSeh" data-type="backgrounds"><div id="vqUvdLJ" data-type="bg-color" class="div-hidden"><div id="ZtipYUT" data-type="solid-color" class="div-visible" style="background: rgb(227, 231, 232);"></div><div id="FiWihnm" data-type="radial-color" class="div-hidden" style="background: radial-gradient(circle, rgb(0, 255, 128), rgb(200, 0, 255));"></div><div id="UWWgNmj" data-type="linear-color" class="div-hidden" style="background: linear-gradient(0deg, rgb(184 184 184), rgb(255, 255, 255));"></div></div><!-- bg-color --><div id="gLADddM" data-type="bg-image" class="div-hidden"><picture id="rreCWCu"><source srcset="" media="(max-width:640px)"><source srcset="" media="(min-width:641px) and (max-width:1024px)"><img id="DRKcMBa" src="../global/patterns/sections/1707848593/1707848593.jpeg" data-type="img-bg" loading="lazy"></picture></div><!-- bg-image --><div id="sCvOzim" data-type="bg-video" class="div-visible"><video id="ruCcOWX" autoplay="" loop="" muted=""><source src="../global/patterns/sections/1707848593/1707848593.mp4" type="video/mp4"></video></div><!-- bg-video --></div><!-- backgrounds --><div id="eGPFQaf" data-type="content"><div id="xITSoHd"><h2 id="OTuvwhM" contenteditable="true">Lorem ipsum dolor sit amet</h2><p id="iWdsStq" contenteditable="true">Lorem ipsum dolor sit amet consectur et sermont</p><div id="rogywUH"><a id="eqANoki" contenteditable="true" href="https://www">LOREM IPSUM</a><a id="AvEnUYT" contenteditable="true" href="https://www">LOREM IPSUM</a></div><!-- div2ID --></div><!-- div1ID --></div><!-- content --></div><!-- container --><button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg"></button></section>
