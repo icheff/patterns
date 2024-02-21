@@ -1,22 +1,4 @@
-<section id="iYQTRnw" data-type="section"><style id="yLHZuGa" type="text/css">
-      
-    @media screen and (min-width:0px){#iYQTRnw{width:100vw;height:100vh;position:relative}}
-    @media screen and (min-width:0px){#MCZCKxG{width:100vw;height:100vh;position:relative}}
-    @media screen and (min-width:0px){#fhfaqPW{width:100%;height:100%;display:grid;place-content:center; grid-template-columns: 1fr 1fr;}}
-    @media screen and (min-width:0px){#zvkXVwn{display:grid}}
-    @media screen and (min-width:0px){#TjCIXZX{display:grid;object-fit: cover;height:100vh;width: 100vw;}}
-    @media screen and (min-width:0px){#bMeKRMA{display:grid;padding:5%;width:100%;height:100vh;gap:35px;background:rgb(224 227 228);place-content:center;}}
-    @media screen and (min-width:0px){#RIsOPPb{font-size:clamp(2.5rem,8vw,6rem);line-height:90%;font-weight:300;color:black;}}
-    @media screen and (min-width:0px){#ObDACvK{font-size:clamp(1rem,2vw,2rem);color:black;}}
-    @media screen and (min-width:0px){#KzzMYmw{display:flex;gap:10px;}}
-    @media screen and (min-width:0px){#NLjmBdb{background:black;padding:15px;color:white;font-size:14px;border-radius:10px;text-underline-position:under;}}
-    @media screen and (min-width:0px){#LTqvVed{background:white;padding:15px;color:black;font-size:14px;border-radius:10px;text-underline-position:under;}}
-    @media screen and (max-width:640px){#bMeKRMA{gap:10px;}}
-    
-    </style><div id="MCZCKxG" data-type="container"><div id="fhfaqPW" data-type="content"><div id="bMeKRMA"><h2 id="RIsOPPb" contenteditable="true">Lorem ipsum dolor sit amet</h2><p id="ObDACvK" contenteditable="true">Lorem ipsum dolor sit amet consectur et sermont</p><div id="KzzMYmw"><a id="NLjmBdb" contenteditable="true" href="https://www">LOREM IPSUM</a><a id="LTqvVed" contenteditable="true" href="https://www">LOREM IPSUM</a></div></div><div id="zvkXVwn"><img id="TjCIXZX" src="https://images.unsplash.com/photo-1463936575829-25148e1db1b8?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwxfHxjYWN0dXN8ZW58MHwwfHx8MTcwODQzMjYyN3ww&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="img-grid" loading="lazy"></div></div></div><button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg"></button></section>
-  
-  <section id="TJqLzzZ" data-type="section">
-  <style id="IoSFJZq" type="text/css">
+<section id="TJqLzzZ" data-type="section"><style id="IoSFJZq" type="text/css">
     
   @media screen and (min-width:0px){#TJqLzzZ{width:100vw;height:100vh;position:relative}}
   @media screen and (min-width:0px){#AqspOyn{width:100vw;height:100vh;position:relative}}
@@ -35,45 +17,19 @@
   @media screen and (min-width:0px){#NzlcVWx{background:white;padding:15px;color:black;font-size:14px;border-radius:10px;text-underline-position:under;}}
   @media screen and (max-width:640px){#IUtcPNY{gap:10px;}}
   
-  </style>
-  
-  <div id="AqspOyn" data-type="container">
-    <div id="GQjujYG" data-type="backgrounds">
+  </style><div id="AqspOyn" data-type="container"><div id="GQjujYG" data-type="backgrounds"><div id="GsjbUiF" data-type="bg-color" class="div-hidden"><div id="nOxxqNF" data-type="solid-color" class="div-visible" style="background: rgb(227, 231, 232);"></div><div id="pqJczGi" data-type="radial-color" class="div-hidden" style="background: radial-gradient(circle, rgb(0, 255, 128), rgb(200, 0, 255));"></div><div id="aeLrOaU" data-type="linear-color" class="div-hidden" style="background: linear-gradient(0deg, rgb(184 184 184), rgb(255, 255, 255));"></div></div><!-- bg-color --><div id="vNPCrSP" data-type="bg-image" class="div-visible"><picture id="TyXzHbe"><source srcset="" media="(max-width:640px)"><source srcset="" media="(min-width:641px) and (max-width:1024px)"><img id="LVyBBXQ" src="https://images.unsplash.com/photo-1632829882891-5047ccc421bc?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwxODd8fGxpdmluZ3xlbnwwfDB8fHwxNzA4NTQ1OTYzfDA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="img-bg" loading="lazy"></picture></div><!-- bg-image --><div id="SoTpdOD" data-type="bg-video" class="div-hidden"><video id="qmDvdgH" autoplay="" loop="" muted=""><source src="https://vod-progressive.akamaized.net/exp=1708461354~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F1511%2F18%2F457558067%2F2020165682.mp4~hmac=fa6a5c0044648721c490e51cec080aa8d7437bd5e3d8886cf08dddbc434d6cbe/vimeo-prod-skyfire-std-us/01/1511/18/457558067/2020165682.mp4" type="video/mp4"></video></div><!-- bg-video --></div><!-- backgrounds --><div id="AaOGXCM" data-type="content"><div id="IUtcPNY"><h2 id="KbBSCid" contenteditable="true">Lorem ipsum dolor sit amet</h2><p id="zioTWLl" contenteditable="true">Lorem ipsum dolor sit amet consectur et sermont</p><div id="UoPiNoq"><a id="eZdSPdc" contenteditable="true" href="https://www">LOREM IPSUM</a><a id="NzlcVWx" contenteditable="true" href="https://www">LOREM IPSUM</a></div><!-- div2ID --></div><!-- div1ID --></div><!-- content --></div><!-- container --><button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg"></button></section><section id="iYQTRnw" data-type="section"><style id="yLHZuGa" type="text/css">
       
-      <div id="GsjbUiF" data-type="bg-color" class="div-hidden">
-        <div id="nOxxqNF" data-type="solid-color" class="div-visible" style="background: rgb(227, 231, 232);"></div>
-        <div id="pqJczGi" data-type="radial-color" class="div-hidden" style="background: radial-gradient(circle, rgb(0, 255, 128), rgb(200, 0, 255));"></div>
-        <div id="aeLrOaU" data-type="linear-color" class="div-hidden" style="background: linear-gradient(0deg, rgb(184 184 184), rgb(255, 255, 255));"></div>
-      </div> <!-- bg-color -->
-
-      <div id="vNPCrSP" data-type="bg-image" class="div-visible">
-        <picture id="TyXzHbe">
-          <source srcset="" media="(max-width:640px)">
-          <source srcset="" media="(min-width:641px) and (max-width:1024px)">
-          <img id="LVyBBXQ" src="https://images.unsplash.com/photo-1463936575829-25148e1db1b8?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwxfHxjYWN0dXN8ZW58MHwwfHx8MTcwODQzMjYyN3ww&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="img-bg" loading="lazy">
-        </picture>
-      </div> <!-- bg-image -->
-
-      <div id="SoTpdOD" data-type="bg-video" class="div-hidden">
-        <video id="qmDvdgH" autoplay="" loop="" muted="">
-          <source src="https://vod-progressive.akamaized.net/exp=1708461354~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F1511%2F18%2F457558067%2F2020165682.mp4~hmac=fa6a5c0044648721c490e51cec080aa8d7437bd5e3d8886cf08dddbc434d6cbe/vimeo-prod-skyfire-std-us/01/1511/18/457558067/2020165682.mp4" type="video/mp4">
-        </video>
-      </div> <!-- bg-video -->
-
-    </div> <!-- backgrounds -->
-
-    <div id="AaOGXCM" data-type="content">
-      <div id="IUtcPNY">
-        <h2 id="KbBSCid" contenteditable="true">Lorem ipsum dolor sit amet</h2>
-        <p id="zioTWLl" contenteditable="true">Lorem ipsum dolor sit amet consectur et sermont</p>
-        <div id="UoPiNoq">
-          <a id="eZdSPdc" contenteditable="true" href="https://www">LOREM IPSUM</a>
-          <a id="NzlcVWx" contenteditable="true" href="https://www">LOREM IPSUM</a>
-        </div> <!-- div2ID -->
-      </div> <!-- div1ID -->
-    </div> <!-- content -->
-  </div> <!-- container -->
-  <button class="toolbar-open" onclick="toolsOpenModal(this)">
-    <img src="../global/file/edit-section.svg">
-  </button>
-</section>
+    @media screen and (min-width:0px){#iYQTRnw{width:100vw;height:100vh;position:relative}}
+    @media screen and (min-width:0px){#MCZCKxG{width:100vw;height:100vh;position:relative}}
+    @media screen and (min-width:0px){#fhfaqPW{width:100%;height:100%;display:grid;place-content:center; grid-template-columns: 1fr 1fr;}}
+    @media screen and (min-width:0px){#zvkXVwn{display:grid}}
+    @media screen and (min-width:0px){#TjCIXZX{display:grid;object-fit: cover;height:100vh;width: 100vw;}}
+    @media screen and (min-width:0px){#bMeKRMA{display:grid;padding:5%;width:100%;height:100vh;gap:35px;background:rgb(224 227 228);place-content:center;}}
+    @media screen and (min-width:0px){#RIsOPPb{font-size:clamp(2.5rem,8vw,6rem);line-height:90%;font-weight:300;color:black;}}
+    @media screen and (min-width:0px){#ObDACvK{font-size:clamp(1rem,2vw,2rem);color:black;}}
+    @media screen and (min-width:0px){#KzzMYmw{display:flex;gap:10px;}}
+    @media screen and (min-width:0px){#NLjmBdb{background:black;padding:15px;color:white;font-size:14px;border-radius:10px;text-underline-position:under;}}
+    @media screen and (min-width:0px){#LTqvVed{background:white;padding:15px;color:black;font-size:14px;border-radius:10px;text-underline-position:under;}}
+    @media screen and (max-width:640px){#bMeKRMA{gap:10px;}}
+    
+    </style><div id="MCZCKxG" data-type="container"><div id="fhfaqPW" data-type="content"><div id="bMeKRMA"><h2 id="RIsOPPb" contenteditable="true">Lorem ipsum dolor sit amet</h2><p id="ObDACvK" contenteditable="true">Lorem ipsum dolor sit amet consectur et sermont</p><div id="KzzMYmw"><a id="NLjmBdb" contenteditable="true" href="https://www">LOREM IPSUM</a><a id="LTqvVed" contenteditable="true" href="https://www">LOREM IPSUM</a></div></div><div id="zvkXVwn"><img id="TjCIXZX" src="https://images.unsplash.com/photo-1614622352876-4a90d2515f0d?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwxOTN8fGxpdmluZ3xlbnwwfDB8fHwxNzA4NTQ1OTYzfDA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="img-grid" loading="lazy"></div></div></div><button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg"></button></section>
