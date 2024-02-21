@@ -72,3 +72,46 @@
       <img src="../global/file/edit-section.svg">
     </button>
   </section>
+    
+    <section id="ZjfBmFH" data-type="section">
+    <style id="AAkqoEZ" type="text/css">
+      
+    @media screen and (min-width:0px){#ZjfBmFH{width:100vw;height:100vh;position:relative}}
+    @media screen and (min-width:0px){#GCCmCdf{width:100vw;height:100vh;position:relative}}
+    @media screen and (min-width:0px){#SvaHGWW{width:100%;height:100%;display:grid;place-content:center; grid-template-columns: 1fr 1fr;}}
+    @media screen and (min-width:0px){#CgXudMx{display:grid}}
+    @media screen and (min-width:0px){#hJBppYN{display:grid;object-fit: cover;height:100vh;width: 100vw;}}
+    @media screen and (min-width:0px){#dSuHeHT{display:grid;padding:5%;width:100%;height:100vh;gap:35px;background:rgb(224 227 228);place-content:center;}}
+    @media screen and (min-width:0px){#LrgPjqC{font-size:clamp(2.5rem,8vw,6rem);line-height:90%;font-weight:300;color:black;}}
+    @media screen and (min-width:0px){#KVHrPbL{font-size:clamp(1rem,2vw,2rem);color:black;}}
+    @media screen and (min-width:0px){#kulDMis{display:flex;gap:10px;}}
+    @media screen and (min-width:0px){#EhPsPiy{background:black;padding:15px;color:white;font-size:14px;border-radius:10px;text-underline-position:under;}}
+    @media screen and (min-width:0px){#tiocKLA{background:white;padding:15px;color:black;font-size:14px;border-radius:10px;text-underline-position:under;}}
+    @media screen and (max-width:640px){#dSuHeHT{gap:10px;}}
+    
+    </style>
+    
+    <div id="GCCmCdf" data-type="container">
+      
+      <div id="SvaHGWW" data-type="content">
+        
+        <div id="dSuHeHT">
+            <h2 id="LrgPjqC" contenteditable="true">hJBppYN</h2>
+            <p id="KVHrPbL" contenteditable="true">Lorem ipsum dolor sit amet consectur et sermont</p>
+            <div id="kulDMis">
+              <a id="EhPsPiy" contenteditable="true" href="https://www">LOREM IPSUM</a>
+              <a id="tiocKLA" contenteditable="true" href="https://www">LOREM IPSUM</a>
+            </div>
+        </div>
+       
+        <div id="CgXudMx">
+          <img id="hJBppYN" src="https://images.unsplash.com/photo-1463936575829-25148e1db1b8?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwxfHxjYWN0dXN8ZW58MHwwfHx8MTcwODQzMjYyN3ww&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="img-bg" loading="lazy">
+        </div>
+
+      </div>
+
+    </div>
+    <button class="toolbar-open" onclick="toolsOpenModal(this)">
+      <img src="../global/file/edit-section.svg">
+    </button>
+  </section>
