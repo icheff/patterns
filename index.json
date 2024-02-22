@@ -15,3 +15,66 @@
     @media screen and (max-width:640px){#MRVDmCG{gap:10px;}}
     
     </style><div id="BgtRqGz" data-type="container"><div id="rIeeThG" data-type="content"><div id="MRVDmCG"><h2 id="IOcyxbk" contenteditable="true">Lorem ipsum dolor sit amet</h2><p id="dCuEgPe" contenteditable="true">Lorem ipsum dolor sit amet consectur et sermont</p><div id="WMajdjL"><a id="pfhrPVV" contenteditable="true" href="https://www">LOREM IPSUM</a><a id="YYHfVFb" contenteditable="true" href="https://www">LOREM IPSUM</a></div></div><div id="TKzpUZH"><img id="pPkqWTe" src="https://images.unsplash.com/photo-1588471980726-8346cb477a33?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwzfHxsaXZpbmd8ZW58MHwwfHx8MTcwODU0NTgxMnww&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="img-grid" loading="lazy"><img id="QXiBubE" src="https://images.unsplash.com/photo-1594026112284-02bb6f3352fe?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHw1fHxsaXZpbmd8ZW58MHwwfHx8MTcwODU0NTgxMnww&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="img-grid" loading="lazy"></div></div></div><button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg" data-type="img-edit"></button></section>
+  
+  <section id="GDVNRLM" data-type="section">
+  <style id="MGDzYdH" type="text/css">
+    
+  @media screen and (min-width:0px){#GDVNRLM{width:100vw;height:100vh;position:relative}}
+  @media screen and (min-width:0px){#RMtcvmQ{width:100vw;height:100vh;position:relative}}
+  @media screen and (min-width:0px){#KhbsGJP{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10;}}
+  @media screen and (min-width:0px){#cBqOrAK{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10; background:inherit;}}
+  @media screen and (min-width:0px){#KfzyahW{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10; background:inherit;}}
+  @media screen and (min-width:0px){#NVulNKL{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10; background:inherit;}}
+  @media screen and (min-width:0px){#SHVhoBZ{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10; background:inherit;}}
+  @media screen and (min-width:0px){#akElmEX{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10;}}
+  @media screen and (min-width:0px){#gSSBamP{width:100%;height:100%;display:grid;place-content: center start;}}
+  @media screen and (min-width:0px){#cWFmLSz{display:grid;padding:5%;max-width: 900px;gap:35px;}}
+  @media screen and (min-width:0px){#cwfggkm{font-size:clamp(2.5rem,8vw,6rem);line-height:90%;font-weight:300;color:black;}}
+  @media screen and (min-width:0px){#KLQtkfh{font-size:clamp(1rem,2vw,2rem);color:black;}}
+  @media screen and (min-width:0px){#taAFmlR{display:flex;gap:10px;}}
+  @media screen and (min-width:0px){#WbAunRl{background:black;padding:15px;color:white;font-size:14px;border-radius:10px;text-underline-position:under;}}
+  @media screen and (min-width:0px){#NqsqDvq{background:white;padding:15px;color:black;font-size:14px;border-radius:10px;text-underline-position:under;}}
+  @media screen and (max-width:640px){#cWFmLSz{gap:10px;}}
+  
+  </style>
+  
+  <div id="RMtcvmQ" data-type="container">
+    <div id="BOaXaPF" data-type="backgrounds">
+      
+      <div id="cBqOrAK" data-type="bg-color" class="div-hidden">
+        <div id="KfzyahW" data-type="solid-color" class="div-visible" style="background: rgb(227, 231, 232);"></div>
+        <div id="NVulNKL" data-type="radial-color" class="div-hidden" style="background: radial-gradient(circle, rgb(0, 255, 128), rgb(200, 0, 255));"></div>
+        <div id="SHVhoBZ" data-type="linear-color" class="div-hidden" style="background: linear-gradient(0deg, rgb(184 184 184), rgb(255, 255, 255));"></div>
+      </div> <!-- bg-color -->
+
+      <div id="GlvTqMO" data-type="bg-image" class="div-visible">
+        <picture id="DevyBCP">
+          <source srcset="" media="(max-width:640px)">
+          <source srcset="" media="(min-width:641px) and (max-width:1024px)">
+          <img id="KhbsGJP" src="https://images.unsplash.com/photo-1463936575829-25148e1db1b8?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwxfHxjYWN0dXN8ZW58MHwwfHx8MTcwODQzMjYyN3ww&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="img-bg" loading="lazy">
+        </picture>
+      </div> <!-- bg-image -->
+
+      <div id="bnyAzZZ" data-type="bg-video" class="div-hidden">
+        <video id="akElmEX" autoplay="" loop="" muted="">
+          <source src="https://vod-progressive.akamaized.net/exp=1708461354~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F1511%2F18%2F457558067%2F2020165682.mp4~hmac=fa6a5c0044648721c490e51cec080aa8d7437bd5e3d8886cf08dddbc434d6cbe/vimeo-prod-skyfire-std-us/01/1511/18/457558067/2020165682.mp4" type="video/mp4">
+        </video>
+      </div> <!-- bg-video -->
+
+    </div> <!-- backgrounds -->
+
+    <div id="gSSBamP" data-type="content">
+      <div id="cWFmLSz">
+        <h2 id="cwfggkm" contenteditable="true">Lorem ipsum dolor sit amet</h2>
+        <p id="KLQtkfh" contenteditable="true">Lorem ipsum dolor sit amet consectur et sermont</p>
+        <div id="taAFmlR">
+          <a id="WbAunRl" contenteditable="true" href="https://www">LOREM IPSUM</a>
+          <a id="NqsqDvq" contenteditable="true" href="https://www">LOREM IPSUM</a>
+        </div> <!-- div2ID -->
+      </div> <!-- div1ID -->
+    </div> <!-- content -->
+  </div> <!-- container -->
+  <button class="toolbar-open" onclick="toolsOpenModal(this)">
+    <img src="../global/file/edit-section.svg">
+  </button>
+</section>
