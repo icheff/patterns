@@ -1,62 +1,48 @@
-<section id="comWrzJ" data-type="section">
-  <style id="wssncUA" type="text/css">
-    
-  @media screen and (min-width:0px){#comWrzJ{width:100vw;height:100vh;position:relative}}
-  @media screen and (min-width:0px){#GRVMKFv{width:100vw;height:100vh;position:relative}}
-  @media screen and (min-width:0px){#VsbDlEE{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10;}}
-  @media screen and (min-width:0px){#BpdQvro{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10; background:inherit;}}
-  @media screen and (min-width:0px){#eMWKDvN{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10; background:inherit;}}
-  @media screen and (min-width:0px){#tonZYzX{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10; background:inherit;}}
-  @media screen and (min-width:0px){#KTQGTpj{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10; background:inherit;}}
-  @media screen and (min-width:0px){#gWsCaTs{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10;}}
-  @media screen and (min-width:0px){#mbyofup{width:100%;height:100%;display:grid;place-content: center start;}}
-  @media screen and (min-width:0px){#KWemCzl{display:grid;padding:5%;max-width: 900px;gap:35px;}}
-  @media screen and (min-width:0px){#TxlKXYN{font-size:clamp(2.5rem,8vw,6rem);line-height:90%;font-weight:300;color:black;}}
-  @media screen and (min-width:0px){#MAQjwWP{font-size:clamp(1rem,2vw,2rem);color:black;}}
-  @media screen and (min-width:0px){#qscBbJA{display:flex;gap:10px;}}
-  @media screen and (min-width:0px){#kzkCBfC{background:black;padding:15px;color:white;font-size:14px;border-radius:10px;text-underline-position:under;}}
-  @media screen and (min-width:0px){#IymtvjO{background:white;padding:15px;color:black;font-size:14px;border-radius:10px;text-underline-position:under;}}
-  @media screen and (max-width:640px){#KWemCzl{gap:10px;}}
-  
-  </style>
-  
-  <div id="GRVMKFv" data-type="container">
-    <div id="cWmhtkD" data-type="backgrounds">
+<section id="fkpHDHF" data-type="section">
+    <style id="cYsuUOQ" type="text/css">
       
-      <div id="BpdQvro" data-type="bg-color" class="div-hidden">
-        <div id="eMWKDvN" data-type="solid-color" class="div-visible" style="background: rgb(227, 231, 232);"></div>
-        <div id="tonZYzX" data-type="radial-color" class="div-hidden" style="background: radial-gradient(circle, rgb(0, 255, 128), rgb(200, 0, 255));"></div>
-        <div id="KTQGTpj" data-type="linear-color" class="div-hidden" style="background: linear-gradient(0deg, rgb(184 184 184), rgb(255, 255, 255));"></div>
-      </div> <!-- bg-color -->
+    @media screen and (min-width:0px){#fkpHDHF{width:100vw;height:100vh;position:relative}}
+    @media screen and (min-width:0px){#gpFSyJq{width:100vw;height:100vh;position:relative}}
+    @media screen and (min-width:0px){#CFjmXvu{width:100%;height:100%;display:grid;place-content:center; grid-template-columns: 1fr 1fr;}}
+    @media screen and (min-width:0px){#YxGAgVk{display:grid}}
+    @media screen and (min-width:0px){#QrRjJAL{display:grid;object-fit:cover;height:50vh;width:100%;}}
+    @media screen and (min-width:0px){#deeBGpD{display:grid;object-fit:cover;height:50vh;width:100%;}}
+    @media screen and (min-width:0px){#jEzPmkv{display:grid;padding:5%;width:100%;height:100vh;gap:35px;background:rgb(224 227 228);place-content:center;}}
+    @media screen and (min-width:0px){#nEXsbtQ{font-size:clamp(2.5rem,8vw,6rem);line-height:90%;font-weight:300;color:black;}}
+    @media screen and (min-width:0px){#bzSVWMq{font-size:clamp(1rem,2vw,2rem);color:black;}}
+    @media screen and (min-width:0px){#hevZAFI{display:flex;gap:10px;}}
+    @media screen and (min-width:0px){#uVjOBHJ{background:black;padding:15px;color:white;font-size:14px;border-radius:10px;text-underline-position:under;}}
+    @media screen and (min-width:0px){#HohQYqy{background:white;padding:15px;color:black;font-size:14px;border-radius:10px;text-underline-position:under;}}
+    @media screen and (max-width:640px){#jEzPmkv{gap:10px;}}
+    
+    </style>
+    
+    <div id="gpFSyJq" data-type="container">
+      
+      <div id="CFjmXvu" data-type="content">
+        
+        <div id="jEzPmkv">
+            <h2 id="nEXsbtQ" contenteditable="true">Lorem ipsum dolor sit amet</h2>
+            <p id="bzSVWMq" contenteditable="true">Lorem ipsum dolor sit amet consectur et sermont</p>
+            <div id="hevZAFI">
+              <a id="uVjOBHJ" contenteditable="true" href="https://www">LOREM IPSUM</a>
+              <a id="HohQYqy" contenteditable="true" href="https://www">LOREM IPSUM</a>
+            </div>
+        </div>
+       
+        <div id="YxGAgVk">
+          <img id="QrRjJAL" src="https://images.unsplash.com/photo-1463936575829-25148e1db1b8?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwxfHxjYWN0dXN8ZW58MHwwfHx8MTcwODQzMjYyN3ww&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="img-grid" loading="lazy">
+          <picture id="EDHCwHP">
+            <source srcset="" media="(max-width:640px)">
+            <source srcset="" media="(min-width:641px) and (max-width:1024px)">
+            <img id="deeBGpD" src="https://images.unsplash.com/photo-1463936575829-25148e1db1b8?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwxfHxjYWN0dXN8ZW58MHwwfHx8MTcwODQzMjYyN3ww&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="img-grid" loading="lazy">
+          </picture>
+        </div>
 
-      <div id="tmnWKuD" data-type="bg-image" class="div-visible">
-        <picture id="CsugJxp">
-          <source srcset="" media="(max-width:640px)">
-          <source srcset="" media="(min-width:641px) and (max-width:1024px)">
-          <img id="VsbDlEE" src="https://images.unsplash.com/photo-1463936575829-25148e1db1b8?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwxfHxjYWN0dXN8ZW58MHwwfHx8MTcwODQzMjYyN3ww&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="img-bg" loading="lazy">
-        </picture>
-      </div> <!-- bg-image -->
+      </div>
 
-      <div id="vNctJLF" data-type="bg-video" class="div-hidden">
-        <video id="gWsCaTs" autoplay="" loop="" muted="">
-          <source src="https://vod-progressive.akamaized.net/exp=1708461354~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F1511%2F18%2F457558067%2F2020165682.mp4~hmac=fa6a5c0044648721c490e51cec080aa8d7437bd5e3d8886cf08dddbc434d6cbe/vimeo-prod-skyfire-std-us/01/1511/18/457558067/2020165682.mp4" type="video/mp4">
-        </video>
-      </div> <!-- bg-video -->
-
-    </div> <!-- backgrounds -->
-
-    <div id="mbyofup" data-type="content">
-      <div id="KWemCzl">
-        <h2 id="TxlKXYN" contenteditable="true">Lorem ipsum dolor sit amet</h2>
-        <p id="MAQjwWP" contenteditable="true">Lorem ipsum dolor sit amet consectur et sermont</p>
-        <div id="qscBbJA">
-          <a id="kzkCBfC" contenteditable="true" href="https://www">LOREM IPSUM</a>
-          <a id="IymtvjO" contenteditable="true" href="https://www">LOREM IPSUM</a>
-        </div> <!-- div2ID -->
-      </div> <!-- div1ID -->
-    </div> <!-- content -->
-  </div> <!-- container -->
-  <button class="toolbar-open" onclick="toolsOpenModal(this)">
-    <img src="../global/file/edit-section.svg">
-  </button>
-</section>
+    </div>
+    <button class="toolbar-open" onclick="toolsOpenModal(this)">
+      <img src="../global/file/edit-section.svg" data-type="img-edit">
+    </button>
+  </section>
