@@ -1,4 +1,65 @@
-<section id="RWUfevo" data-type="section"><style id="apyNIzE" type="text/css">
+<section id="QfKtKEY" data-type="section">
+  <style id="EbOOvoL" type="text/css">
+    
+  @media screen and (min-width:0px){#QfKtKEY{width:100vw;height:100vh;position:relative}}
+  @media screen and (min-width:0px){#XsMDirw{width:100vw;height:100vh;position:relative}}
+  @media screen and (min-width:0px){#fSwQCLj{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10;}}
+  @media screen and (min-width:0px){#kzfFWBY{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10; background:inherit;}}
+  @media screen and (min-width:0px){#VtIdQea{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10; background:inherit;}}
+  @media screen and (min-width:0px){#cXvhALD{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10; background:inherit;}}
+  @media screen and (min-width:0px){#mTuYNVF{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10; background:inherit;}}
+  @media screen and (min-width:0px){#xuVAEMD{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10;}}
+  @media screen and (min-width:0px){#MNEPYGu{width:100%;height:100%;display:grid;place-content: center start;}}
+  @media screen and (min-width:0px){#bEGLGAD{display:grid;padding:5%;max-width: 900px;gap:35px;}}
+  @media screen and (min-width:0px){#mzatwhq{font-size:clamp(2.5rem,8vw,6rem);line-height:90%;font-weight:300;color:black;}}
+  @media screen and (min-width:0px){#MHMThOw{font-size:clamp(1rem,2vw,2rem);color:black;}}
+  @media screen and (min-width:0px){#rAGuHjt{display:flex;gap:10px;}}
+  @media screen and (min-width:0px){#YfWUbUf{background:black;padding:15px;color:white;font-size:14px;border-radius:10px;text-underline-position:under;}}
+  @media screen and (min-width:0px){#JfcGMpo{background:white;padding:15px;color:black;font-size:14px;border-radius:10px;text-underline-position:under;}}
+  @media screen and (max-width:640px){#bEGLGAD{gap:10px;}}
+  
+  </style>
+  
+  <div id="XsMDirw" data-type="container">
+    <div id="BdTVfnD" data-type="backgrounds">
+      
+      <div id="kzfFWBY" data-type="bg-color" class="div-hidden">
+        <div id="VtIdQea" data-type="solid-color" class="div-visible" style="background: rgb(227, 231, 232);"></div>
+        <div id="cXvhALD" data-type="radial-color" class="div-hidden" style="background: radial-gradient(circle, rgb(0, 255, 128), rgb(200, 0, 255));"></div>
+        <div id="mTuYNVF" data-type="linear-color" class="div-hidden" style="background: linear-gradient(0deg, rgb(184 184 184), rgb(255, 255, 255));"></div>
+      </div> <!-- bg-color -->
+
+      <div id="jISjfha" data-type="bg-image" class="div-visible">
+        <picture id="jBXkLEL">
+          <source srcset="" media="(max-width:640px)">
+          <source srcset="" media="(min-width:641px) and (max-width:1024px)">
+          <img id="fSwQCLj" src="https://images.unsplash.com/photo-1551499779-ee50f1aa4d25?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwyfHxwYXN0ZWx8ZW58MHwwfHx8MTcwODcxNzI5MHww&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="img-bg" loading="lazy">
+        </picture>
+      </div> <!-- bg-image -->
+
+      <div id="fflkFHL" data-type="bg-video" class="div-hidden">
+        <video id="xuVAEMD" autoplay="" loop="" muted="">
+          <source src="https://vod-progressive.akamaized.net/exp=1708461354~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F1511%2F18%2F457558067%2F2020165682.mp4~hmac=fa6a5c0044648721c490e51cec080aa8d7437bd5e3d8886cf08dddbc434d6cbe/vimeo-prod-skyfire-std-us/01/1511/18/457558067/2020165682.mp4" type="video/mp4">
+        </video>
+      </div> <!-- bg-video -->
+
+    </div> <!-- backgrounds -->
+
+    <div id="MNEPYGu" data-type="content">
+      <div id="bEGLGAD">
+        <h2 id="mzatwhq" contenteditable="true">I make Better Design for your Business today</h2>
+        <p id="MHMThOw" contenteditable="true">Lorem ipsum dolor sit amet consectur et sermont</p>
+        <div id="rAGuHjt">
+          <a id="YfWUbUf" contenteditable="true" href="https://www">LOREM IPSUM</a>
+          <a id="JfcGMpo" contenteditable="true" href="https://www">LOREM IPSUM</a>
+        </div> <!-- div2ID -->
+      </div> <!-- div1ID -->
+    </div> <!-- content -->
+  </div> <!-- container -->
+  <button class="toolbar-open" onclick="toolsOpenModal(this)">
+    <img src="../global/file/edit-section.svg">
+  </button>
+</section><section id="RWUfevo" data-type="section"><style id="apyNIzE" type="text/css">
       
     @media screen and (min-width:0px){#RWUfevo{width:100vw;height:100vh;position:relative}}
     @media screen and (min-width:0px){#JlBgNeQ{width:100%;height:100%;display:grid;place-content:center; grid-template-columns: 1fr 1fr;}}
