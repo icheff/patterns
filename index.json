@@ -1,0 +1,62 @@
+<section id="kgMNnHL" data-type="section">
+  <style id="CeVmpJq" type="text/css">
+    
+  @media screen and (min-width:0px){#kgMNnHL{width:100vw;height:100vh;position:relative}}
+  @media screen and (min-width:0px){#NuoYyId{width:100vw;height:100vh;position:relative}}
+  @media screen and (min-width:0px){#lXOYmCF{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10;}}
+  @media screen and (min-width:0px){#KKmiWay{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10; background:inherit;}}
+  @media screen and (min-width:0px){#oqYPNVm{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10; background:inherit;}}
+  @media screen and (min-width:0px){#UCCNzXB{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10; background:inherit;}}
+  @media screen and (min-width:0px){#oMCBcWG{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10; background:inherit;}}
+  @media screen and (min-width:0px){#zsmtoUH{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10;}}
+  @media screen and (min-width:0px){#vjrAlFz{width:100%;height:100%;display:grid;place-content: center start;}}
+  @media screen and (min-width:0px){#yjQmUkp{display: grid; padding: 10%; max-width: 800px; gap: 20px; background: #ffffff85; -webkit-backdrop-filter blur(10px) brightness(1.1); backdrop-filter: blur(10px) brightness(1.1); margin: 5%; border-radius: 10px; overflow: hidden; box-shadow: 0 20px 25px -5px rgb(0 0 0 / 10%), 0 10px 10px -5px rgb(0 0 0 / 4%);}}
+  @media screen and (min-width:0px){#fwFphKk{font-size: clamp(2rem, 4vw, 6rem); line-height: 1; font-weight: 300; color: black;}}
+  @media screen and (min-width:0px){#VnTRRVY{font-size:1rem;color:black;}}
+  @media screen and (min-width:0px){#rarMZWL{display:flex;gap:10px;}}
+  @media screen and (min-width:0px){#qlcZMpv{background: black; padding: 0 15px; color: white; font-size: 14px; border-radius: 10px; text-underline-position: under; height: 50px; display: grid; place-content: center;}}
+  @media screen and (min-width:0px){#vgoDWuk{background: white; padding: 0 15px; color: black; font-size: 14px; border-radius: 10px; text-underline-position: under; height: 50px; display: grid; place-content: center;}}
+  @media screen and (max-width:640px){#yjQmUkp{gap:10px;}}
+  
+  </style>
+  
+  <div id="NuoYyId" data-type="container">
+    <div id="cQXYASK" data-type="backgrounds">
+      
+      <div id="KKmiWay" data-type="bg-color" class="div-hidden">
+        <div id="oqYPNVm" data-type="solid-color" class="div-visible" style="background: rgb(227, 231, 232);"></div>
+        <div id="UCCNzXB" data-type="radial-color" class="div-hidden" style="background: radial-gradient(circle, rgb(0, 255, 128), rgb(200, 0, 255));"></div>
+        <div id="oMCBcWG" data-type="linear-color" class="div-hidden" style="background: linear-gradient(0deg, rgb(184 184 184), rgb(255, 255, 255));"></div>
+      </div> <!-- bg-color -->
+
+      <div id="tLjwTPn" data-type="bg-image" class="div-visible">
+        <picture id="SRyMNQo">
+          <source srcset="" media="(max-width:640px)">
+          <source srcset="" media="(min-width:641px) and (max-width:1024px)">
+          <img id="lXOYmCF" src="https://raw.githubusercontent.com/icheff/patterns/main/media/images/design.webp" data-type="img-bg" loading="lazy">
+        </picture>
+      </div> <!-- bg-image -->
+
+      <div id="mAYJtdQ" data-type="bg-video" class="div-hidden">
+        <video id="zsmtoUH" autoplay="" loop="" muted="">
+          <source src="https://vod-progressive.akamaized.net/exp=1708461354~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F1511%2F18%2F457558067%2F2020165682.mp4~hmac=fa6a5c0044648721c490e51cec080aa8d7437bd5e3d8886cf08dddbc434d6cbe/vimeo-prod-skyfire-std-us/01/1511/18/457558067/2020165682.mp4" type="video/mp4">
+        </video>
+      </div> <!-- bg-video -->
+
+    </div> <!-- backgrounds -->
+
+    <div id="vjrAlFz" data-type="content">
+      <div id="yjQmUkp">
+        <h2 id="fwFphKk" contenteditable="true">Lorem ipsum dolor sit amet</h2>
+        <p id="VnTRRVY" contenteditable="true">Lorem ipsum dolor sit amet consectetur adipiscing elit.</p>
+        <div id="rarMZWL">
+          <a id="qlcZMpv" contenteditable="true" href="https://www">LOREM IPSUM</a>
+          <a id="vgoDWuk" contenteditable="true" href="https://www">LOREM IPSUM</a>
+        </div> <!-- div2ID -->
+      </div> <!-- div1ID -->
+    </div> <!-- content -->
+  </div> <!-- container -->
+  <button class="toolbar-open" onclick="toolsOpenModal(this)">
+    <img src="../global/file/edit-section.svg">
+  </button>
+</section>
