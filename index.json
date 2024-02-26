@@ -1,0 +1,62 @@
+<section id="qRMVnRQ" data-type="section">
+  <style id="ALtacWY" type="text/css">
+    
+  @media screen and (min-width:0px){#qRMVnRQ{width:100vw;height:100vh;position:relative}}
+  @media screen and (min-width:0px){#dSGQmLD{width:100vw;height:100vh;position:relative}}
+  @media screen and (min-width:0px){#iZnUaRz{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10;}}
+  @media screen and (min-width:0px){#xkbVJPm{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10; background:inherit;}}
+  @media screen and (min-width:0px){#gqEFcEd{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10; background:inherit;}}
+  @media screen and (min-width:0px){#qoTBmTh{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10; background:inherit;}}
+  @media screen and (min-width:0px){#NihWlbW{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10; background:inherit;}}
+  @media screen and (min-width:0px){#qgdJoRt{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10;}}
+  @media screen and (min-width:0px){#xnqUVZP{width:100%;height:100%;display:grid;place-content: center start;}}
+  @media screen and (min-width:0px){#SvwsGVK{display: grid; padding: 10%; max-width: 800px; gap: 20px; background: #ffffff85; -webkit-backdrop-filter blur(10px) brightness(1.1); backdrop-filter: blur(10px) brightness(1.1); margin: 5%; border-radius: 10px; overflow: hidden; box-shadow: 0 20px 25px -5px rgb(0 0 0 / 10%), 0 10px 10px -5px rgb(0 0 0 / 4%);}}
+  @media screen and (min-width:0px){#KUNQqSo{font-size: clamp(2rem, 4vw, 6rem); line-height: 1; font-weight: 300; color: black;}}
+  @media screen and (min-width:0px){#cZbPGPB{font-size:1rem;color:black;}}
+  @media screen and (min-width:0px){#CoHcYKc{display:flex;gap:10px;}}
+  @media screen and (min-width:0px){#YviuqrE{background: black; padding: 0 15px; color: white; font-size: 14px; border-radius: 10px; text-underline-position: under; height: 50px; display: grid; place-content: center;}}
+  @media screen and (min-width:0px){#mbHKhPR{background: white; padding: 0 15px; color: black; font-size: 14px; border-radius: 10px; text-underline-position: under; height: 50px; display: grid; place-content: center;}}
+  @media screen and (max-width:640px){#SvwsGVK{gap:10px;}}
+  
+  </style>
+  
+  <div id="dSGQmLD" data-type="container">
+    <div id="SWTtRIH" data-type="backgrounds">
+      
+      <div id="xkbVJPm" data-type="bg-color" class="div-hidden">
+        <div id="gqEFcEd" data-type="solid-color" class="div-visible" style="background: rgb(227, 231, 232);"></div>
+        <div id="qoTBmTh" data-type="radial-color" class="div-hidden" style="background: radial-gradient(circle, rgb(0, 255, 128), rgb(200, 0, 255));"></div>
+        <div id="NihWlbW" data-type="linear-color" class="div-hidden" style="background: linear-gradient(0deg, rgb(184 184 184), rgb(255, 255, 255));"></div>
+      </div> <!-- bg-color -->
+
+      <div id="tdIkwiw" data-type="bg-image" class="div-hidden">
+        <picture id="jnOQWqM">
+          <source srcset="" media="(max-width:640px)">
+          <source srcset="" media="(min-width:641px) and (max-width:1024px)">
+          <img id="iZnUaRz" src="https://raw.githubusercontent.com/IAMEDIA360/images/main/1707848593-1.webp" data-type="img-bg" loading="lazy">
+        </picture>
+      </div> <!-- bg-image -->
+
+      <div id="cxOYyMJ" data-type="bg-video" class="div-visible">
+        <video id="qgdJoRt" autoplay="" loop="" muted="">
+          <source src="https://github.com/IAMEDIA360/videos/blob/main/empty.mp4" type="video/mp4">
+        </video>
+      </div> <!-- bg-video -->
+
+    </div> <!-- backgrounds -->
+
+    <div id="xnqUVZP" data-type="content">
+      <div id="SvwsGVK">
+        <h2 id="KUNQqSo" contenteditable="true">Lorem ipsum dolor sit amet</h2>
+        <p id="cZbPGPB" contenteditable="true">Lorem ipsum dolor sit amet consectetur adipiscing elit.</p>
+        <div id="CoHcYKc">
+          <a id="YviuqrE" contenteditable="true" href="https://www">LOREM IPSUM</a>
+          <a id="mbHKhPR" contenteditable="true" href="https://www">LOREM IPSUM</a>
+        </div> <!-- div2ID -->
+      </div> <!-- div1ID -->
+    </div> <!-- content -->
+  </div> <!-- container -->
+  <button class="toolbar-open" onclick="toolsOpenModal(this)">
+    <img src="../global/file/edit-section.svg">
+  </button>
+</section>
