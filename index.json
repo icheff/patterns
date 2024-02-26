@@ -1,53 +1,49 @@
-<section id="VUQrmnK" data-type="section">
-    <style id="hEeeeGR" type="text/css">
+<section id="fZWJEcs" data-type="section">
+    <style id="hvVLMnI" type="text/css">
       
-    @media screen and (min-width:0px){#VUQrmnK{width:100vw;height:100vh;position:relative}}
-    @media screen and (min-width:0px){#BvtjhkG{width:100vw;height:100vh;position:relative}}
-    @media screen and (min-width:0px){#jrKulHk{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10;}}
-    @media screen and (min-width:0px){#ypNVNrG{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10; background:inherit;}}
-    @media screen and (min-width:0px){#gKPOQJM{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10; background:inherit;}}
-    @media screen and (min-width:0px){#HIxowWy{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10; background:inherit;}}
-    @media screen and (min-width:0px){#aybIGQH{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10; background:inherit;}}
-    @media screen and (min-width:0px){#qTKrMjr{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10;}}
-    @media screen and (min-width:0px){#yMutOFX{width:100%;height:100%;display:grid;place-content: center start;}}
-    @media screen and (min-width:0px){#CTCfjUQ{display:block;margin: 0px 20px;}}
-    @media screen and (min-width:0px){#JTsJRzc{font-size: clamp(2.5rem, 4.5vw, 7.5rem); font-weight: 300; color: black; background: #FFEB3B; padding: 0px 0; line-height: 1.45; display: inline;}}
-    @media screen and (min-width:0px){#lRRqUop{font-size:clamp(1rem,2vw,2rem);color:black;}}
-    @media screen and (min-width:0px){#XVOcMOt{display:flex;gap:10px;}}
-    @media screen and (min-width:0px){#MYPymPu{background:black;padding:15px;color:white;font-size:14px;border-radius:10px;text-underline-position:under;}}
-    @media screen and (min-width:0px){#hYWjPIC{background:white;padding:15px;color:black;font-size:14px;border-radius:10px;text-underline-position:under;}}
-    @media screen and (max-width:640px){#CTCfjUQ{gap:10px;}}
+    @media screen and (min-width:0px){#fZWJEcs{width:100vw;height:100vh;position:relative}}
+    @media screen and (min-width:0px){#kJavSVz{width:100vw;height:100vh;position:relative}}
+    @media screen and (min-width:0px){#ENopiul{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10;}}
+    @media screen and (min-width:0px){#nqPXCen{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10; background:inherit;}}
+    @media screen and (min-width:0px){#hDwGHkD{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10; background:inherit;}}
+    @media screen and (min-width:0px){#qpaJpwz{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10; background:inherit;}}
+    @media screen and (min-width:0px){#HBgsHDj{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10; background:inherit;}}
+    @media screen and (min-width:0px){#ZfjulXW{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10;}}
+    @media screen and (min-width:0px){#UGpKsGH{width:100%;height:100%;display:grid;place-content: center start;}}
+    @media screen and (min-width:0px){#QGuIZqG{display:block;margin: 0px 20px;}}
+    @media screen and (min-width:0px){#aPgHgQJ{font-size: clamp(2.5rem, 4.5vw, 7.5rem); font-weight: 200; color: black; background: #FFEB3B; padding: 0px 0; line-height: 1.45; display: inline;}}
+    
     
     </style>
     
-    <div id="BvtjhkG" data-type="container">
-      <div id="UqrLysk" data-type="backgrounds">
+    <div id="kJavSVz" data-type="container">
+      <div id="PasPTtP" data-type="backgrounds">
         
-        <div id="ypNVNrG" data-type="bg-color" class="div-hidden">
-          <div id="gKPOQJM" data-type="solid-color" class="div-visible" style="background: rgb(227, 231, 232);"></div>
-          <div id="HIxowWy" data-type="radial-color" class="div-hidden" style="background: radial-gradient(circle, rgb(0, 255, 128), rgb(200, 0, 255));"></div>
-          <div id="aybIGQH" data-type="linear-color" class="div-hidden" style="background: linear-gradient(0deg, rgb(184 184 184), rgb(255, 255, 255));"></div>
+        <div id="nqPXCen" data-type="bg-color" class="div-hidden">
+          <div id="hDwGHkD" data-type="solid-color" class="div-visible" style="background: rgb(227, 231, 232);"></div>
+          <div id="qpaJpwz" data-type="radial-color" class="div-hidden" style="background: radial-gradient(circle, rgb(0, 255, 128), rgb(200, 0, 255));"></div>
+          <div id="HBgsHDj" data-type="linear-color" class="div-hidden" style="background: linear-gradient(0deg, rgb(184 184 184), rgb(255, 255, 255));"></div>
         </div> <!-- bg-color -->
   
-        <div id="UnpkzRy" data-type="bg-image" class="div-hidden">
-          <picture id="KkyEAvK">
+        <div id="umxcvMR" data-type="bg-image" class="div-hidden">
+          <picture id="SOWOkNX">
             <source srcset="" media="(max-width:640px)">
             <source srcset="" media="(min-width:641px) and (max-width:1024px)">
-            <img id="jrKulHk" data-type="img-bg" loading="lazy">
+            <img id="ENopiul" data-type="img-bg" loading="lazy">
           </picture>
         </div> <!-- bg-image -->
   
-        <div id="hcwgoEE" data-type="bg-video" class="div-visible">
-          <video id="qTKrMjr" autoplay="" loop="" muted="">
+        <div id="zfMEMMC" data-type="bg-video" class="div-visible">
+          <video id="ZfjulXW" autoplay="" loop="" muted="">
             <source src="https://github.com/IAMEDIA360/videos/raw/main/1795013481-1.mp4" type="video/mp4">
           </video>
         </div> <!-- bg-video -->
   
       </div> <!-- backgrounds -->
   
-      <div id="yMutOFX" data-type="content">
-        <div id="CTCfjUQ">
-          <h2 id="JTsJRzc" contenteditable="true">&nbsp;Consectur&nbsp;<br>&nbsp;lorem ipsum&nbsp;<br>&nbsp;adipiscing elit&nbsp;</h2>
+      <div id="UGpKsGH" data-type="content">
+        <div id="QGuIZqG">
+          <h2 id="aPgHgQJ" contenteditable="true">&nbsp;Consectur&nbsp;<br>&nbsp;lorem ipsum&nbsp;<br>&nbsp;adipiscing elit&nbsp;</h2>
         </div> <!-- div1ID -->
       </div> <!-- content -->
     </div> <!-- container -->
