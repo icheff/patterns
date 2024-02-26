@@ -1,0 +1,53 @@
+<section id="DyvgaSp" data-type="section">
+    <style id="oHtdmaJ" type="text/css">
+      
+    @media screen and (min-width:0px){#DyvgaSp{width:100vw;height:100vh;position:relative}}
+    @media screen and (min-width:0px){#jxRMPED{width:100vw;height:100vh;position:relative}}
+    @media screen and (min-width:0px){#KIViQXc{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10;}}
+    @media screen and (min-width:0px){#jRBjeTZ{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10; background:inherit;}}
+    @media screen and (min-width:0px){#dLenjdf{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10; background:inherit;}}
+    @media screen and (min-width:0px){#qciinjZ{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10; background:inherit;}}
+    @media screen and (min-width:0px){#NlWtLQZ{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10; background:inherit;}}
+    @media screen and (min-width:0px){#jVgbWjk{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10;}}
+    @media screen and (min-width:0px){#ZSiIgwt{width:100%;height:100%;display:grid;place-content: center start;}}
+    @media screen and (min-width:0px){#TWPDOML{display:block;margin: 0px 20px;}}
+    @media screen and (min-width:0px){#RDQGsjA{font-size: clamp(2.5rem, 4.5vw, 7.5rem); font-weight: 200; color: black; background: #FFEB3B; padding: 0px 0; line-height: 1.45; display: inline;}}
+    
+    
+    </style>
+    
+    <div id="jxRMPED" data-type="container">
+      <div id="yuCQvZF" data-type="backgrounds">
+        
+        <div id="jRBjeTZ" data-type="bg-color" class="div-hidden">
+          <div id="dLenjdf" data-type="solid-color" class="div-visible" style="background: rgb(235, 235, 235);"></div>
+          <div id="qciinjZ" data-type="radial-color" class="div-hidden" style="background: radial-gradient(circle, rgb(235, 235, 235), rgb(235, 235, 235));"></div>
+          <div id="NlWtLQZ" data-type="linear-color" class="div-hidden" style="background: linear-gradient(0deg, rgb(235, 235, 235), rgb(235, 235, 235));"></div>
+        </div> <!-- bg-color -->
+  
+        <div id="oshxMTo" data-type="bg-image" class="div-hidden">
+          <picture id="ePLQWvv">
+            <source srcset="" media="(max-width:640px)">
+            <source srcset="" media="(min-width:641px) and (max-width:1024px)">
+            <img id="KIViQXc" src="https://raw.githubusercontent.com/IAMEDIA360/images/main/empty.svg" data-type="img-bg" loading="lazy">
+          </picture>
+        </div> <!-- bg-image -->
+  
+        <div id="qQYaAqX" data-type="bg-video" class="div-visible">
+          <video id="jVgbWjk" autoplay="" loop="" muted="">
+            <source src="https://github.com/IAMEDIA360/videos/raw/main/1795013481-1.mp4" type="video/mp4">
+          </video>
+        </div> <!-- bg-video -->
+  
+      </div> <!-- backgrounds -->
+  
+      <div id="ZSiIgwt" data-type="content">
+        <div id="TWPDOML">
+          <h2 id="RDQGsjA" contenteditable="true">&nbsp;Consectur&nbsp;<br>&nbsp;lorem ipsum&nbsp;<br>&nbsp;adipiscing elit&nbsp;</h2>
+        </div> <!-- div1ID -->
+      </div> <!-- content -->
+    </div> <!-- container -->
+    <button class="toolbar-open" onclick="toolsOpenModal(this)">
+      <img src="../global/file/edit-section.svg">
+    </button>
+  </section>
