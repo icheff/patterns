@@ -1,4 +1,60 @@
-<section id="kpFewue" data-type="section">
+<section id="xYxnJXZ" data-type="section">
+    <style id="kHDRLeF" type="text/css">
+      
+    @media screen and (min-width:0px){#xYxnJXZ{width:100vw;height:100vh;position:relative}}
+    @media screen and (min-width:0px){#zlFXVuR{width:100vw;height:100vh;position:relative}}
+    @media screen and (min-width:0px){#vodXuYY{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10;}}
+    @media screen and (min-width:0px){#KtMHQpe{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10; background:inherit;}}
+    @media screen and (min-width:0px){#mdjnwZD{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10; background:inherit;}}
+    @media screen and (min-width:0px){#STLBItS{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10; background:inherit;}}
+    @media screen and (min-width:0px){#MYkTvrY{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10; background:inherit;}}
+    @media screen and (min-width:0px){#iLPRGiF{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10;}}
+    @media screen and (min-width:0px){#cCgKMpy{width:100%;height:100%;display:grid;place-content: center start;}}
+    @media screen and (min-width:0px){#cJgBQOY{display:block;margin: 0px 20px;}}
+    @media screen and (min-width:0px){#yyUQPaO{font-size: clamp(2.5rem, 4.5vw, 7.5rem); font-weight: 300; color: black; background: #FFEB3B; padding: 0px 0; line-height: 1.45; display: inline;}}
+    @media screen and (min-width:0px){#oHRBenr{font-size:clamp(1rem,2vw,2rem);color:black;}}
+    @media screen and (min-width:0px){#AmpNVHu{display:flex;gap:10px;}}
+    @media screen and (min-width:0px){#DDbuDTS{background:black;padding:15px;color:white;font-size:14px;border-radius:10px;text-underline-position:under;}}
+    @media screen and (min-width:0px){#LnLSVys{background:white;padding:15px;color:black;font-size:14px;border-radius:10px;text-underline-position:under;}}
+    @media screen and (max-width:640px){#cJgBQOY{gap:10px;}}
+    
+    </style>
+    
+    <div id="zlFXVuR" data-type="container">
+      <div id="IirYEvk" data-type="backgrounds">
+        
+        <div id="KtMHQpe" data-type="bg-color" class="div-hidden">
+          <div id="mdjnwZD" data-type="solid-color" class="div-visible" style="background: rgb(227, 231, 232);"></div>
+          <div id="STLBItS" data-type="radial-color" class="div-hidden" style="background: radial-gradient(circle, rgb(0, 255, 128), rgb(200, 0, 255));"></div>
+          <div id="MYkTvrY" data-type="linear-color" class="div-hidden" style="background: linear-gradient(0deg, rgb(184 184 184), rgb(255, 255, 255));"></div>
+        </div> <!-- bg-color -->
+  
+        <div id="BvJnpXk" data-type="bg-image" class="div-hidden">
+          <picture id="pkxSmOm">
+            <source srcset="" media="(max-width:640px)">
+            <source srcset="" media="(min-width:641px) and (max-width:1024px)">
+            <img id="vodXuYY" data-type="img-bg" loading="lazy">
+          </picture>
+        </div> <!-- bg-image -->
+  
+        <div id="vltHrWI" data-type="bg-video" class="div-visible">
+          <video id="iLPRGiF" autoplay="" loop="" muted="">
+            <source src="https://github.com/IAMEDIA360/videos/raw/main/1795013481-1.mp4" type="video/mp4">
+          </video>
+        </div> <!-- bg-video -->
+  
+      </div> <!-- backgrounds -->
+  
+      <div id="cCgKMpy" data-type="content">
+        <div id="cJgBQOY">
+          <h2 id="yyUQPaO" contenteditable="true">&nbsp;Devenez&nbsp;<br>&nbsp;Expert en IA&nbsp;<br>&nbsp;Generative !&nbsp;</h2>
+        </div> <!-- div1ID -->
+      </div> <!-- content -->
+    </div> <!-- container -->
+    <button class="toolbar-open" onclick="toolsOpenModal(this)">
+      <img src="../global/file/edit-section.svg">
+    </button>
+  </section><section id="kpFewue" data-type="section">
   <style id="eYLHZkg" type="text/css">
     
   @media screen and (min-width:0px){#kpFewue{width:100vw;height:100vh;position:relative}}
@@ -90,63 +146,5 @@
 
     <button class="toolbar-open" onclick="toolsOpenModal(this)">
       <img src="../global/file/edit-section.svg" data-type="img-edit">
-    </button>
-  </section>
-    
-    <section id="xYxnJXZ" data-type="section">
-    <style id="kHDRLeF" type="text/css">
-      
-    @media screen and (min-width:0px){#xYxnJXZ{width:100vw;height:100vh;position:relative}}
-    @media screen and (min-width:0px){#zlFXVuR{width:100vw;height:100vh;position:relative}}
-    @media screen and (min-width:0px){#vodXuYY{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10;}}
-    @media screen and (min-width:0px){#KtMHQpe{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10; background:inherit;}}
-    @media screen and (min-width:0px){#mdjnwZD{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10; background:inherit;}}
-    @media screen and (min-width:0px){#STLBItS{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10; background:inherit;}}
-    @media screen and (min-width:0px){#MYkTvrY{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10; background:inherit;}}
-    @media screen and (min-width:0px){#iLPRGiF{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10;}}
-    @media screen and (min-width:0px){#cCgKMpy{width:100%;height:100%;display:grid;place-content: center start;}}
-    @media screen and (min-width:0px){#cJgBQOY{display:block;margin: 0px 20px;}}
-    @media screen and (min-width:0px){#yyUQPaO{font-size: clamp(2.5rem, 4.5vw, 7.5rem); font-weight: 300; color: black; background: #FFEB3B; padding: 0px 0; line-height: 1.45; display: inline;}}
-    @media screen and (min-width:0px){#oHRBenr{font-size:clamp(1rem,2vw,2rem);color:black;}}
-    @media screen and (min-width:0px){#AmpNVHu{display:flex;gap:10px;}}
-    @media screen and (min-width:0px){#DDbuDTS{background:black;padding:15px;color:white;font-size:14px;border-radius:10px;text-underline-position:under;}}
-    @media screen and (min-width:0px){#LnLSVys{background:white;padding:15px;color:black;font-size:14px;border-radius:10px;text-underline-position:under;}}
-    @media screen and (max-width:640px){#cJgBQOY{gap:10px;}}
-    
-    </style>
-    
-    <div id="zlFXVuR" data-type="container">
-      <div id="IirYEvk" data-type="backgrounds">
-        
-        <div id="KtMHQpe" data-type="bg-color" class="div-hidden">
-          <div id="mdjnwZD" data-type="solid-color" class="div-visible" style="background: rgb(227, 231, 232);"></div>
-          <div id="STLBItS" data-type="radial-color" class="div-hidden" style="background: radial-gradient(circle, rgb(0, 255, 128), rgb(200, 0, 255));"></div>
-          <div id="MYkTvrY" data-type="linear-color" class="div-hidden" style="background: linear-gradient(0deg, rgb(184 184 184), rgb(255, 255, 255));"></div>
-        </div> <!-- bg-color -->
-  
-        <div id="BvJnpXk" data-type="bg-image" class="div-hidden">
-          <picture id="pkxSmOm">
-            <source srcset="" media="(max-width:640px)">
-            <source srcset="" media="(min-width:641px) and (max-width:1024px)">
-            <img id="vodXuYY" data-type="img-bg" loading="lazy">
-          </picture>
-        </div> <!-- bg-image -->
-  
-        <div id="vltHrWI" data-type="bg-video" class="div-visible">
-          <video id="iLPRGiF" autoplay="" loop="" muted="">
-            <source src="https://github.com/IAMEDIA360/videos/raw/main/1795013481-1.mp4" type="video/mp4">
-          </video>
-        </div> <!-- bg-video -->
-  
-      </div> <!-- backgrounds -->
-  
-      <div id="cCgKMpy" data-type="content">
-        <div id="cJgBQOY">
-          <h2 id="yyUQPaO" contenteditable="true">&nbsp;Devenez&nbsp;<br>&nbsp;Expert en IA&nbsp;<br>&nbsp;Generative !&nbsp;</h2>
-        </div> <!-- div1ID -->
-      </div> <!-- content -->
-    </div> <!-- container -->
-    <button class="toolbar-open" onclick="toolsOpenModal(this)">
-      <img src="../global/file/edit-section.svg">
     </button>
   </section>
